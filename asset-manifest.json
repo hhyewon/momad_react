@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/momad_react/static/css/main.5b19fac0.css",
+    "main.js": "/momad_react/static/js/main.ee34d007.js",
+    "index.html": "/momad_react/index.html",
+    "main.5b19fac0.css.map": "/momad_react/static/css/main.5b19fac0.css.map",
+    "main.ee34d007.js.map": "/momad_react/static/js/main.ee34d007.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b19fac0.css",
+    "static/js/main.ee34d007.js"
+  ]
+}
